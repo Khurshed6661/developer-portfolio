@@ -9,7 +9,7 @@ h{
 .orange-color{
 color: orange;
 }
-section{
+.flexible-container{
     display: flex;
     margin: 150px;
 }
